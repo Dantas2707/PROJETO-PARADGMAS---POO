@@ -58,3 +58,42 @@ Essas linguagens são amplamente usadas para desenvolver aplicações modernas, 
 - *CORDEIRO, Daniel. História da Programação Orientada a Objetos. USP. Disponível em: https://edisciplinas.usp.br/pluginfile.php/8270378/mod_resource/content/0/1-historia-de-poo.pdf. Acesso em: 14 set. 2024.*
 - *NOLETO, Cairo. POO: tudo sobre Programação Orientada a Objetos!. Blog da Trybe. Disponível em: https://blog.betrybe.com/tecnologia/poo-programacao-orientada-a-objetos/. Acesso em: 14 set. 2024*
 - *MELO, Ana Cristina Vieira de; SILVA, Flávio Soares Corrêa da. Princípios de linguagem de programação. São Paulo: Blucher, 2003. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 14 set. 2024..*
+- *ALURA. POO: programação orientada a objetos. Disponível em: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos. Acesso em: 14 set. 2024.*
+- *BRASIL ESCOLA. Programação orientada a objetos. Disponível em: https://meuartigo.brasilescola.uol.com.br/informatica/programacao-orientada-objetos.htm. Acesso em: 14 set. 2024.*
+- *DIO. O que é programação orientada a objetos (POO) e para que serve. Disponível em: https://www.dio.me/articles/o-que-e-programacao-orientada-a-objetos-poo-e-para-que-serve. Acesso em: 14 set. 2024.*
+- *COODESH. Conceitos de POO: abstração e encapsulamento. Disponível em: https://coodesh.com/blog/candidates/metodologias/conceitos-de-poo-abstracao-e-encapsulamento/. Acesso em: 15 set. 2024.*
+- *ALURA. POO: programação orientada a objetos. Disponível em: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos?srsltid=AfmBOopEx2IpfA72wNMk8CnXTenS2_AfB2G6V9MSSX-US-C1_dniwNdM. Acesso em: 15 set. 2024.*
+- *WIKIPEDIA. Programação orientada a objetos. Disponível em: https://pt.wikipedia.org/wiki/Programação_orientada_a_objetos#:~:text=Linguagens%20orientadas%20a%20objeto%20significativas,Scala%2C%20Common%20Lisp%20e%20Smalltalk. Acesso em: 15 set. 2024.*
+- *WPJR2. Orientação por objetos: vantagens e desvantagens. Disponível em: https://wpjr2.wordpress.com/2008/04/23/orientacao-por-objetos-vantagens-e-desvantagens/. Acesso em: 15 set. 2024.*
+- *WIKIPEDIA. Java (linguagem de programação). Disponível em: https://en.wikipedia.org/wiki/Java_(programming_language). Acesso em: 15 set. 2024.*
+- *WIKIPEDIA. Python (linguagem de programação). Disponível em: https://en.wikipedia.org/wiki/Python_(programming_language). Acesso em: 15 set. 2024.*
+- *WIKIPEDIA. C Sharp (linguagem de programação). Disponível em: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2Fˌsiː%20ˈ,Paradigm. Acesso em: 15 set. 2024.*
+- *WIKIPEDIA. Perl. Disponível em: https://en.wikipedia.org/wiki/Perl. Acesso em: 15 set. 2024.*
+- *WIKIPEDIA. Lua (linguagem de programação). Disponível em: https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação). Acesso em: 15 set. 2024.*
+- *WIKIPEDIA. Ruby (linguagem de programação). Disponível em: https://en.wikipedia.org/wiki/Ruby_(programming_language). Acesso em: 15 set. 2024.*
+- *GAURAV, Sushant. Advantages and Disadvantages of OOP. Scaler. Disponível em: https://www.scaler.com/topics/oops-advantages/. Acesso em: 14 set. 2024.*
+- *PROGRAMAE. Quais são os 4 paradigmas de programação orientada a objetos?. Programae. Disponível em: https://programae.org.br/programacao/quais-sao-os-4-paradigmas-de-programacao-orientada-a-objetos/. Acesso em: 14 set. 2024.*
+- *OLIVEIRA, Paulo. Programação Orientada a Objetos - Quando Utilizar Esse Recurso?. Escola Linux. Disponível em: https://nova.escolalinux.com.br/blog/programacao-orientada-a-objetos-quando-utilizar-esse-recurso. Acesso em: 14 set. 2024.*
+- *PROGRAMAE. Como estudar POO?. Programae. Disponível em: https://programae.org.br/programacao/como-estudar-poo/. Acesso em: 14 set. 2024.*
+- *https://www.thejavaprogrammer.com/james-gosling-biography/*
+- *https://pt.wikipedia.org/wiki/James_Gosling*
+- *https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178*
+- *https://www.youtube.com/watch?v=Qjk-cSW-jk4&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&index=4*
+- *https://www.infoescola.com/informatica/historia-do-java/*
+- *https://mundoeducacao.uol.com.br/informatica/java.htm*
+- *https://www.terra.com.br/esportes/lance/veja-como-era-o-mundo-em-1995 quando-renato-fez-o-gol-de barriga,a3d5600aec646a63a91b0355982edb45uy9mRCRD.html*
+- *https://docs.oracle.com/en/java/*
+- *https://blogs.oracle.com/java/*
+- *https://openjdk.org/*
+- *https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)*
+- *https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178*
+- *https://canaltech.com.br/software/java-o-que-o-cafezinho-tem-a-ver-com-a-origem-da-linguagem-de-programacao-207312/*
+- *https://www.dio.me/articles/programacao-orientada-a-objetos-em-java-conceitos-fundamentais-e-boas-praticas*
+- *https://www.dio.me/articles/entendendo-java-sintaxe-e-funcionalidades-principais*
+- *https://www.w3schools.com/java/java_class_methods.asp*
+- *https://www.w3schools.com/java/java_classes.asp*
+- *https://www.treinaweb.com.br/blog/classes-abstratas-vs-interfaces*
+- *https://www.dio.me/articles/programacao-orientada-a-objetos-em-java-conceitos-fundamentais-e-boas-praticas*
+- *https://www.dio.me/articles/entendendo-java-sintaxe-e-funcionalidades-principais*
+- *https://www.w3schools.com/java/java_class_methods.asp*
+- *https://www.treinaweb.com.br/blog/classes-abstratas-vs-interfaces*
