@@ -49,3 +49,12 @@ O **paradigma orientado a objetos (POO)** é um estilo de programação que orga
 - **C#**
 
 Essas linguagens são amplamente usadas para desenvolver aplicações modernas, desde softwares corporativos até jogos e sistemas distribuídos, devido à sua capacidade de modelar problemas complexos de forma organizada e eficiente.
+
+### **Referências**
+- *MICHAELIS. Paradigma. Disponível em: https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=paradigma. Acesso em: 14 set. 2024*
+- *BÓSON TREINAMENTOS. O que são Paradigmas de Programação. Youtube. Disponível em: https://www.youtube.com/watch?v=UubmwhIbHUY. Acesso em: 14 set. 2024.*
+- *NOLETO, Cairo. Paradigmas de programação: o que são e quais os principais?. Blog da Trybe. Disponível em: https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/. Acesso em: 14 set. 2024.*
+- *HENRIQUE, João. POO: o que é programação orientada a objetos?. Alura. Disponível em: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos?srsltid=AfmBOoqJ0jtX6ianzmOJg6g9EmJTj6hKLGvFU-1sDWueEtiFIr9PLd_P. Acesso em: 14 set. 2024.*
+- *CORDEIRO, Daniel. História da Programação Orientada a Objetos. USP. Disponível em: https://edisciplinas.usp.br/pluginfile.php/8270378/mod_resource/content/0/1-historia-de-poo.pdf. Acesso em: 14 set. 2024.*
+- *NOLETO, Cairo. POO: tudo sobre Programação Orientada a Objetos!. Blog da Trybe. Disponível em: https://blog.betrybe.com/tecnologia/poo-programacao-orientada-a-objetos/. Acesso em: 14 set. 2024*
+- *MELO, Ana Cristina Vieira de; SILVA, Flávio Soares Corrêa da. Princípios de linguagem de programação. São Paulo: Blucher, 2003. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 14 set. 2024..*
