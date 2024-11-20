@@ -83,24 +83,20 @@ Essas linguagens são amplamente usadas para desenvolver aplicações modernas, 
 - *PROGRAMAE. Quais são os 4 paradigmas de programação orientada a objetos?. Programae. Disponível em: https://programae.org.br/programacao/quais-sao-os-4-paradigmas-de-programacao-orientada-a-objetos/. Acesso em: 14 set. 2024.*
 - *OLIVEIRA, Paulo. Programação Orientada a Objetos - Quando Utilizar Esse Recurso?. Escola Linux. Disponível em: https://nova.escolalinux.com.br/blog/programacao-orientada-a-objetos-quando-utilizar-esse-recurso. Acesso em: 14 set. 2024.*
 - *PROGRAMAE. Como estudar POO?. Programae. Disponível em: https://programae.org.br/programacao/como-estudar-poo/. Acesso em: 14 set. 2024.*
-- *https://www.thejavaprogrammer.com/james-gosling-biography/*
-- *https://pt.wikipedia.org/wiki/James_Gosling*
-- *https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178*
-- *https://www.youtube.com/watch?v=Qjk-cSW-jk4&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&index=4*
-- *https://www.infoescola.com/informatica/historia-do-java/*
-- *https://mundoeducacao.uol.com.br/informatica/java.htm*
-- *https://docs.oracle.com/en/java/*
-- *https://blogs.oracle.com/java/*
-- *https://openjdk.org/*
-- *https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)*
-- *https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178*
-- *https://canaltech.com.br/software/java-o-que-o-cafezinho-tem-a-ver-com-a-origem-da-linguagem-de-programacao-207312/*
-- *https://www.dio.me/articles/programacao-orientada-a-objetos-em-java-conceitos-fundamentais-e-boas-praticas*
-- *https://www.dio.me/articles/entendendo-java-sintaxe-e-funcionalidades-principais*
-- *https://www.w3schools.com/java/java_class_methods.asp*
-- *https://www.w3schools.com/java/java_classes.asp*
-- *https://www.treinaweb.com.br/blog/classes-abstratas-vs-interfaces*
-- *https://www.dio.me/articles/programacao-orientada-a-objetos-em-java-conceitos-fundamentais-e-boas-praticas*
-- *https://www.dio.me/articles/entendendo-java-sintaxe-e-funcionalidades-principais*
-- *https://www.w3schools.com/java/java_class_methods.asp*
-- *https://www.treinaweb.com.br/blog/classes-abstratas-vs-interfaces*
+- *THE JAVA PROGRAMMER. James Gosling Biography. Disponível em: https://www.thejavaprogrammer.com/james-gosling-biography/. Acesso em: 14 set. 2024.*
+- *WIKIPEDIA. James Gosling. Disponível em: https://pt.wikipedia.org/wiki/James_Gosling. Acesso em: 14 set. 2024.*
+- *DEVMEDIA. Java: história e principais conceitos. Disponível em: https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178. Acesso em: 14 set. 2024.*
+- *YOUTUBE. História do Java. Disponível em: https://www.youtube.com/watch?v=Qjk-cSW-jk4&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&index=4. Acesso em: 14 set. 2024.*
+- *INFOESCOLA. História do Java. Disponível em: https://www.infoescola.com/informatica/historia-do-java/. Acesso em: 14 set. 2024.*
+- *MUNDO EDUCAÇÃO. Java. Disponível em: https://mundoeducacao.uol.com.br/informatica/java.htm. Acesso em: 14 set. 2024.*
+- *ORACLE. Documentação do Java. Disponível em: https://docs.oracle.com/en/java/. Acesso em: 14 set. 2024.*
+- *ORACLE BLOGS. Blog oficial do Java. Disponível em: https://blogs.oracle.com/java/. Acesso em: 14 set. 2024.*
+- *OPENJDK. OpenJDK: Java Development Kit. Disponível em: https://openjdk.org/. Acesso em: 14 set. 2024.*
+- *WIKIPEDIA. Java (linguagem de programação). Disponível em: https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação). Acesso em: 14 set. 2024.*
+- *DEVMEDIA. Java: história e principais conceitos. Disponível em: https://www.devmedia.com.br/java-historia-e-principais-conceitos/25178. Acesso em: 14 set. 2024.*
+- *CANALTECH. Java: o que o cafezinho tem a ver com a origem da linguagem de programação? Disponível em: https://canaltech.com.br/software/java-o-que-o-cafezinho-tem-a-ver-com-a-origem-da-linguagem-de-programacao-207312/. Acesso em: 14 set. 2024.*
+- *DIO. Programação Orientada a Objetos em Java: conceitos fundamentais e boas práticas. Disponível em: https://www.dio.me/articles/programacao-orientada-a-objetos-em-java-conceitos-fundamentais-e-boas-praticas. Acesso em: 14 set. 2024.*
+- *DIO. Entendendo Java: sintaxe e funcionalidades principais. Disponível em: https://www.dio.me/articles/entendendo-java-sintaxe-e-funcionalidades-principais. Acesso em: 14 set. 2024.*
+- *W3SCHOOLS. Java Class Methods. Disponível em: https://www.w3schools.com/java/java_class_methods.asp. Acesso em: 14 set. 2024.*
+- *W3SCHOOLS. Java Classes. Disponível em: https://www.w3schools.com/java/java_classes.asp. Acesso em: 14 set. 2024.*
+- *TREINAWEB. Classes abstratas vs interfaces. Disponível em: https://www.treinaweb.com.br/blog/classes-abstratas-vs-interfaces. Acesso em: 14 set. 2024.*
