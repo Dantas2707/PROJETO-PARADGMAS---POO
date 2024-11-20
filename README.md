@@ -50,6 +50,14 @@ O **paradigma orientado a objetos (POO)** é um estilo de programação que orga
 
 Essas linguagens são amplamente usadas para desenvolver aplicações modernas, desde softwares corporativos até jogos e sistemas distribuídos, devido à sua capacidade de modelar problemas complexos de forma organizada e eficiente.
 
+---
+
+### **Links**
+- *Apresentação: https://view.genially.com/66e5fb5a7e0c552e898dce1f/personal-branding-seminario-java*
+- *Colab: https://colab.research.google.com/drive/1CWWlhQQnj__G8qKkzpxOv37N0-8O3kMQ?usp=sharing#scrollTo=z5yA_yhF5lCH*
+
+---
+
 ### **Referências**
 - *MICHAELIS. Paradigma. Disponível em: https://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=paradigma. Acesso em: 14 set. 2024*
 - *BÓSON TREINAMENTOS. O que são Paradigmas de Programação. Youtube. Disponível em: https://www.youtube.com/watch?v=UubmwhIbHUY. Acesso em: 14 set. 2024.*
@@ -81,7 +89,6 @@ Essas linguagens são amplamente usadas para desenvolver aplicações modernas, 
 - *https://www.youtube.com/watch?v=Qjk-cSW-jk4&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&index=4*
 - *https://www.infoescola.com/informatica/historia-do-java/*
 - *https://mundoeducacao.uol.com.br/informatica/java.htm*
-- *https://www.terra.com.br/esportes/lance/veja-como-era-o-mundo-em-1995 quando-renato-fez-o-gol-de barriga,a3d5600aec646a63a91b0355982edb45uy9mRCRD.html*
 - *https://docs.oracle.com/en/java/*
 - *https://blogs.oracle.com/java/*
 - *https://openjdk.org/*
