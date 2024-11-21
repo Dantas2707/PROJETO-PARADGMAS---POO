@@ -99,4 +99,4 @@ Essas linguagens são amplamente usadas para desenvolver aplicações modernas, 
 - *DIO. Entendendo Java: sintaxe e funcionalidades principais. Disponível em: https://www.dio.me/articles/entendendo-java-sintaxe-e-funcionalidades-principais. Acesso em: 14 set. 2024.*
 - *W3SCHOOLS. Java Class Methods. Disponível em: https://www.w3schools.com/java/java_class_methods.asp. Acesso em: 14 set. 2024.*
 - *W3SCHOOLS. Java Classes. Disponível em: https://www.w3schools.com/java/java_classes.asp. Acesso em: 14 set. 2024.*
-- *TREINAWEB. Classes abstratas vs interfaces. Disponível em: https://www.treinaweb.com.br/blog/classes-abstratas-vs-interfaces. Acesso em: 14 set. 2024..*
+- *TREINAWEB. Classes abstratas vs interfaces. Disponível em: https://www.treinaweb.com.br/blog/classes-abstratas-vs-interfaces. Acesso em: 14 set. 2024.*
